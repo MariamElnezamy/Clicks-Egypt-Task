@@ -1,0 +1,6 @@
+framework module Pods_Clicks_Egypt_Task {
+  umbrella header "Pods-Clicks Egypt Task-umbrella.h"
+
+  export *
+  module * { export * }
+}
